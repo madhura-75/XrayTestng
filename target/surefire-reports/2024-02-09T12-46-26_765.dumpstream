@@ -1,0 +1,15 @@
+# Created on 2024-02-09T12:46:26.767
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2024-02-09T12:46:26.769
+WARNING: Illegal reflective access by net.sf.cglib.core.ReflectUtils$1 (file:/C:/Users/61078307/.m2/repository/cglib/cglib/3.3.0/cglib-3.3.0.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created on 2024-02-09T12:46:26.770
+WARNING: Please consider reporting this to the maintainers of net.sf.cglib.core.ReflectUtils$1
+
+# Created on 2024-02-09T12:46:26.772
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2024-02-09T12:46:26.774
+WARNING: All illegal access operations will be denied in a future release
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T16:51:48 IST" name="Suite" finished-at="2024-02-14T16:55:34 IST" duration-ms="226397">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T16:51:48 IST" name="Test" finished-at="2024-02-14T16:55:34 IST" duration-ms="226397">
+      <class name="EPOSMobileTestFramework.MobileTestFramework.PairingTestCases">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:51:48 IST" name="killAllNodes" finished-at="2024-02-14T16:51:51 IST" duration-ms="3019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="TES_31947()[pri:0, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:51:51 IST" name="TES_31947" finished-at="2024-02-14T16:52:29 IST" duration-ms="37611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_31947 -->
+        <test-method signature="TES_31953()[pri:1, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:52:29 IST" name="TES_31953" finished-at="2024-02-14T16:52:47 IST" duration-ms="18129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_31953 -->
+        <test-method signature="TES_31970()[pri:2, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:52:47 IST" name="TES_31970" finished-at="2024-02-14T16:53:42 IST" duration-ms="54977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_31970 -->
+        <test-method signature="TES_31967()[pri:3, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:53:42 IST" name="TES_31967" finished-at="2024-02-14T16:54:09 IST" duration-ms="26936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_31967 -->
+        <test-method signature="TES_33070()[pri:4, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:09 IST" name="TES_33070" finished-at="2024-02-14T16:54:14 IST" duration-ms="5612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33070 -->
+        <test-method signature="TES_33080()[pri:5, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:14 IST" name="TES_33080" finished-at="2024-02-14T16:54:20 IST" duration-ms="5150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33080 -->
+        <test-method signature="TES_33079()[pri:6, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:20 IST" name="TES_33079" finished-at="2024-02-14T16:54:25 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33079 -->
+        <test-method signature="TES_33071()[pri:7, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:25 IST" name="TES_33071" finished-at="2024-02-14T16:54:35 IST" duration-ms="9887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33071 -->
+        <test-method signature="TES_33069()[pri:8, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:35 IST" name="TES_33069" finished-at="2024-02-14T16:54:48 IST" duration-ms="13496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33069 -->
+        <test-method signature="TES_33072()[pri:9, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:48 IST" name="TES_33072" finished-at="2024-02-14T16:54:55 IST" duration-ms="6376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33072 -->
+        <test-method signature="TES_33075()[pri:10, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:54:55 IST" name="TES_33075" finished-at="2024-02-14T16:55:00 IST" duration-ms="5613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33075 -->
+        <test-method signature="TES_33074()[pri:11, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:55:00 IST" name="TES_33074" finished-at="2024-02-14T16:55:06 IST" duration-ms="5363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33074 -->
+        <test-method signature="TES_33073()[pri:12, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:55:06 IST" name="TES_33073" finished-at="2024-02-14T16:55:11 IST" duration-ms="5522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33073 -->
+        <test-method signature="TES_33077()[pri:13, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:55:11 IST" name="TES_33077" finished-at="2024-02-14T16:55:16 IST" duration-ms="5240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33077 -->
+        <test-method signature="TES_33076()[pri:14, instance:EPOSMobileTestFramework.MobileTestFramework.PairingTestCases@7ed7259e]" started-at="2024-02-14T16:55:16 IST" name="TES_33076" finished-at="2024-02-14T16:55:34 IST" duration-ms="18161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TES_33076 -->
+      </class> <!-- EPOSMobileTestFramework.MobileTestFramework.PairingTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

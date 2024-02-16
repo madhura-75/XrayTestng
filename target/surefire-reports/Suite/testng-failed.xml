@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="EPOSMobileTestFramework.MobileTestFramework.Listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="EPOSMobileTestFramework.MobileTestFramework.PairingTestCases">
+        <methods>
+          <include name="TES_33077"/>
+          <include name="TES_33075"/>
+          <include name="TES_33076"/>
+          <include name="TES_33073"/>
+          <include name="TES_33074"/>
+          <include name="killAllNodes"/>
+        </methods>
+      </class> <!-- EPOSMobileTestFramework.MobileTestFramework.PairingTestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

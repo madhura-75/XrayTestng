@@ -1,0 +1,21 @@
+# Created on 2024-02-14T16:49:59.844
+java.util.ServiceConfigurationError: org.testng.ITestNGListener: Provider com.xpand.annotations.XrayListener not found
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:591)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.nextProviderClass(ServiceLoader.java:1213)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1222)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1266)
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1301)
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1386)
+	at org.testng.TestNG.addServiceLoaderListeners(TestNG.java:981)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:918)
+	at org.testng.TestNG.initializeEverything(TestNG.java:1012)
+	at org.testng.TestNG.run(TestNG.java:1023)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
+
+
